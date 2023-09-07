@@ -1,4 +1,4 @@
-##BIGMART SALES
+# BIGMART SALES
 ## Description
 
 This repository showcases a retail sales analysis project that leverages Microsoft Excel to analyze and visualize sales data. The project includes comprehensive data analysis, visualization, and insights derived from the provided retail sales dataset. The primary goal of this project is to provide a clear understanding of sales trends and patterns, aiding in data-driven decision-making within the retail domain.
